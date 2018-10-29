@@ -1,5 +1,12 @@
 # hello-world
-hi,
+Hi guys i am gsteja also known as Binary01 , below are the projects i have worked on
+projects i have worked on / contributed to:
+chess(owner:)
+portfolio website
+memory game
+tictactoe game
+complaint board
 
-I am surya ,I am a front end web developer ,currently part of udacity scholarship course.
-here in this repository, i will be sharing my ideas and upcoming projects
+need contributers for :
+#Skill-India(non profit)(contact me)
+
